@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "A futuristic Iron Man inspired JARVIS AI Assistant with voice control, local memory, floating bubble mode, and AI model customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
